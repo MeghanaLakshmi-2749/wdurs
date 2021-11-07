@@ -64,19 +64,19 @@ table{
     width: 70%;
   }
     .sub {
-        width: 80%;
+        width: 100%;
         /*box: 8px 8px 8px 8px;*/
     }
     .sub1 {
-        width: 80%;
+        width: 100%;
     }
 }
 @media only screen and (min-width:425px) and (max-width:768px) {
   img{
-    width: 30%;
+    width: 100%;
   }
     .sub {
-        width: 80%;
+        width: 100%;
         /*box: 8px 8px 8px 8px;*/
     }
     .sub1 {
